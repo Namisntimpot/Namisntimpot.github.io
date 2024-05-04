@@ -1,5 +1,5 @@
 # About
-北航计算机学院大三，虚拟现实技术专业。
+北航计算机学院大三，虚拟现实技术专业。  
 旅游，拍照，小说，发呆。
 <!-- # About
 This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
