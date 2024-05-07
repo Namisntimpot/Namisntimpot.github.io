@@ -1,6 +1,10 @@
 # About
 北航计算机学院大三，虚拟现实技术专业。  
-旅游，拍照，小说，发呆。
+计算机图形学，人机交互，角色动画，角色控制......  
+旅游，拍照，小说，发呆。  
+
+![长白山,摄于2024五一](../../assets/images/changbai_mount.jpg)
+摄于长白山，2024五一.
 <!-- # About
 This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
